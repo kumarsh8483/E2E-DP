@@ -1,0 +1,339 @@
+Date: Sun, 19 Nov 2023 15:33:16 +0000 (UTC)
+Message-ID: <271324455.151.1700407996511@891e59c7927f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_150_685950190.1700407996511"
+
+------=_Part_150_685950190.1700407996511
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Monitoring</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Monitoring</h1>
+    <div class=3D"Section1">
+        <p>This page explores the framework for a monitoring pipeline to be=
+ used in conjunction with the (implemented) training and scoring pipelines.=
+ An ideal monitoring pipeline would be able to identify data or model drift=
+ and would alert modelers of how performance is trending over time</p>
+<p></p>
+<h2 id=3D"Monitoring-Highlevelmonitoringpipelineoverview&amp;thingstoconsid=
+er">High level monitoring pipeline overview &amp; things to consider</h2>
+<ol start=3D"1">
+<li><p>Identify production data sources that are used in the model (e.g., f=
+t_site)</p></li>
+<li><p><strong>Data Drift: </strong>On key input variables, calculate distr=
+ibutions and counts (e.g., country is a key feature in a lot of models. Get=
+ the counts / percentage breakdown of every country in the datasets and com=
+pare it to the model and historicals. If last month 30% of entries were in =
+the United States and now it is only 10% then you likely have some sort of =
+data drift. Repeat this for other key features)</p>
+<ol start=3D"1">
+<li><p>Identify the root cause =E2=80=93 are there duplicate (or lost) reco=
+rds? What are the dimensions of the table? What records were gained or lost=
+?</p></li>
+<li><p>What is the count / distribution of missing values? How has this cha=
+nged over time?</p></li>
+</ol></li>
+<li><p><strong>Model Drift: </strong>Retrain the model on extended training=
+ data (or tweak the hyperparameters). Is the model performance relatively s=
+imilar to the last model or has it changed a lot? If a model had a MAPE of =
+25% two months ago and now it is 50%, you probably have model drift.</p>
+<ol start=3D"1">
+<li><p>Did you overfit the model? Is the model drift due to data drift?</p>=
+</li>
+</ol></li>
+<li><p>How will users be alerted to data and/or model drift? Is it an autom=
+ated email when data / variables drift out of some bound or when a model MA=
+PE increases / decreases by some threshold? Is it a weekly or monthly autom=
+ated report that is sent out? What visualizations and tables will be used t=
+o communicate the results?</p></li>
+</ol>
+<p></p>
+<h2 id=3D"Monitoring-Exampleofamonitoringpipeline">Example of a monitoring =
+pipeline</h2>
+<ol start=3D"1">
+<li><p>Read in the relevant datasets</p></li>
+<li><p>Print high-level table summary statistics (dimensions of the table, =
+storage size, etc.)</p></li>
+<li><p><strong>Data Drift:</strong> For variables used in the models (and i=
+mportant id variables):</p>
+<ol start=3D"1">
+<li><p><strong>Categorical:</strong></p>
+<ol start=3D"1">
+<li><p>Counts for each level (including missing) with associated percentage=
+s</p></li>
+<li><p>Bar charts to convey the counts (stacked bar)</p></li>
+<li><p>Highlight any new levels that were not present last time (e.g., a ca=
+tegorical variable had only levels A, B, and C last month but now there is =
+a new level, D)</p>
+<ol start=3D"1">
+<li><p>Alert users of any new levels</p></li>
+</ol></li>
+<li><p>Highlight the change from last month (e.g., last month 15% of the da=
+taset was A and now 25% is A)</p>
+<ol start=3D"1">
+<li><p>Alert users is the difference is outside of some threshold</p></li>
+</ol></li>
+<li><p>Repeat all of the above for strictly new and strictly old records (r=
+ecords that were part of the last analysis) and compare</p></li>
+</ol></li>
+<li><p><strong>Numeric:</strong></p>
+<ol start=3D"1">
+<li><p>Five number summary with associated plots (histogram for distributio=
+n and box/whisker for quick evaluation). Make sure to highlight outliers</p=
+></li>
+<li><p>Counts of missing (with associated percents)</p></li>
+<li><p>Highlight the changes in distributions and missingness and alert use=
+rs if any variable has values that fall out of some threshold. For example,=
+ if a variable had a min of 0, a max of 100, and a mean of 60 last month an=
+d now the mean is 100 and the max is 200, then alert the users</p></li>
+<li><p>Repeat all of the above for strictly new and strictly old records (r=
+ecords that were part of the last analysis) and compare</p></li>
+</ol></li>
+<li><p><strong>Id variables:</strong></p>
+<ol start=3D"1">
+<li><p>Highlight how many records are associated with each id and how that =
+compares to last month</p>
+<ol start=3D"1">
+<li><p>Alert users of the id=E2=80=99s that added the most records</p></li>
+</ol></li>
+</ol></li>
+</ol></li>
+<li><p><strong>Model Drift: </strong>Refit the model with the same exact va=
+riables and hyperparameters as the existing models (only difference is the =
+additional training data). Compare model metrics and alert users if the mod=
+el is performing noticeably worse or better than last time</p>
+<ol start=3D"1">
+<li><p>If model performance has changed drastically, was it due to data dri=
+ft (as outlined above)? Or was the model over / under fit (tweak hyperparam=
+eters and re-run)? Or was the model learning on only a subset of the total =
+data (re-adjust training and test sets)</p></li>
+</ol></li>
+<li><p>Send a report to all users (regardless of findings) and highlight an=
+y key differences since last data check</p></li>
+</ol>
+    </div>
+</body>
+</html>
+------=_Part_150_685950190.1700407996511--

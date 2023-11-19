@@ -1,0 +1,473 @@
+Date: Sun, 19 Nov 2023 15:32:59 +0000 (UTC)
+Message-ID: <981865174.157.1700407979690@13881c6def5f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_156_331152822.1700407979690"
+
+------=_Part_156_331152822.1700407979690
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Training</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Training</h1>
+    <div class=3D"Section1">
+        <p>This page is dedicated to coverage of the MLOps training pipelin=
+e. Currently this involves reading in relevant data for the lung models, pr=
+eprocessing the data for training, splitting the data into train and test s=
+ets, one-hot encoding the data, ensuring the columns are in the order the m=
+odel expects, building the model, and finally registering the model if it p=
+asses specific criteria.</p>
+<p></p>
+<h1 id=3D"Training-Training"><strong>Training</strong></h1>
+<h2 id=3D"Training-Whyisatrainingpipelineimportant?">Why is a training pipe=
+line important?</h2>
+<p>A training pipeline allows you to easily track which models are being pu=
+shed to deployment and production, what metrics are associated with the mod=
+els (how does it perform compared to other models), what dataset was used t=
+o train the current model, and it allows you to set up guardrails for model=
+ registration. It provides a concrete (yet flexible) methodology that all m=
+odels for a given indication must adhere to. For example, if you are trying=
+ to register a new hematology activation model, the guardrails will tell yo=
+u if the model you are trying to register is worse than the current product=
+ion model for hematology activation.</p>
+<h2 id=3D"Training-Understandingthecode">Understanding the code</h2>
+<ol start=3D"1">
+<li><p>First you would want to clone the repository (E2E-dp)</p></li>
+<li><p>If developing the code locally, make sure your IDE is configured cor=
+rectly. For reference, this code was developed with the <code>$PYTHONPATH</=
+code> pointing to the root of the directory</p></li>
+<li><p>The structure of the relevant (for scoring) code is as follows:</p><=
+/li>
+</ol>
+<ul>
+<li><p><code>code/aml_machinelearning/modeling_configs</code> </p>
+<ul>
+<li><p>This directory will contain a config file for each indication. This =
+config file is used in the training and scoring pipelines. It contains the =
+modeling vars, some workspace information, and the output vars. Currently t=
+here is just a <code>lung_config.yml</code> file</p>
+<ul>
+<li><p>The =E2=80=9CMODEL_RUN=E2=80=9D variable should be filled out by the=
+ user. This ties into the =E2=80=9CMODEL_RUN_DICT=E2=80=9D. For every model=
+ type within an indication the key is the model name (ACTIVATION, NONENROLL=
+MENT, or ENROLLMENT) and the value is the name of the training class in <co=
+de>lung.py</code> described below. Whatever training pipeline you want to b=
+uild (the lung activation, nonenrollment, or enrollment) should be specifie=
+d in this variable and make sure it is specified in the =E2=80=9CMODEL_RUN_=
+DICT=E2=80=9D</p></li>
+</ul></li>
+<li><p>For every new indication models you build you will add a new config =
+file. For example, if you were to create a new model for hematology you wou=
+ld place a <code>hematology_config.yml</code> file in this directory (using=
+ the <code>lung_config.yml</code> file as a rough template)</p></li>
+</ul></li>
+<li><p><code>code/aml_machinelearning/data_utils</code> contains a config f=
+ile. For each new model / indication you add to the codebase, be sure to ap=
+pend the information into this file. For example, if you were creating a he=
+matology class of models create a =E2=80=98hematology=E2=80=99 block in the=
+ config using the =E2=80=98lung=E2=80=99 block as a guiding template. All o=
+f the other code in this directory is not relevant to training.</p></li>
+<li><p><code>code/aml_machinelearning/iep_ml_models/training</code> is wher=
+e most of the code for the training pipeline is contained. And there are a =
+lot of files in this directory</p>
+<ul>
+<li><p><code>json_converter.py</code> <strong>PLEASE READ CAREFULLY ABOUT W=
+HAT THIS SCRIPT DOES AND WHY IT IS VERY IMPORTANT. </strong>This script tak=
+es the config files (mentioned above) and places them in the relevant locat=
+ions to be used throughout the training process. Only edit the yaml files i=
+n the <code>modeling_configs</code> and <code>data_utils</code> directory (=
+for both scoring and training). And then run this script to take the update=
+d yaml files, convert them to json, and place them in the relevant director=
+ies needed for building the training pipeline. This should always be run be=
+fore building the training pipeline</p></li>
+<li><p><code>lung.py</code> contains a training class for every lung model =
+type (activation, non-enrollment, and enrollment). Each class has a group o=
+f methods. This is described in the code, but the methods should be titled =
+exactly the same across classes. This is because in the training script, th=
+e relevant training class is found through the yaml file. By having all of =
+the same method names in every class (that all take the same arguments) you=
+ do not have to add code to the training class when running the pipeline. I=
+f a preprocess method in one class takes an additional dataframe as an argu=
+ment, add that argument to the preprocess method in the other classes and j=
+ust initiate it with self and leave it at that</p></li>
+<li><p><code>lung_testing.py</code> is for testing the classes and methods =
+in the <code>lung.py</code> script. This isn=E2=80=99t used by the pipeline=
+ at all, but it is a script that can be used to test things out however you=
+ want</p></li>
+<li><p><code>train_aml.py</code> calls the relevant training class from <co=
+de>lung.py</code> based on whatever class was specified in the <code>lung_c=
+onfig</code> file. This script just calls all of the methods in the trainin=
+g class to preprocess the data, train the model, register the training data=
+set, and then get the relevant metric for the model. <strong>PLEASE NOTE </=
+strong>that when running the pipeline on a model for the first time, you mu=
+st make sure (outside of this script =E2=80=93 in a testing script) the tra=
+ining dataset is registered. This is because the training pipeline is refer=
+encing the dataset that was registered on the prior run. This is kind of co=
+nfusing but an example is as follows. If you have never run the training pi=
+peline on the hematology activation model before then you would call all of=
+ the relevant classes and register the training dataset in a testing script=
+ (make sure the name you register it under matches the training dataset nam=
+e specified in the config file). Now you can run the pipeline for the hemat=
+ology activation model as many times as you would like and change the data.=
+ However, the model will always be referencing the dataset registered in th=
+e prior run. This is confusing and not the most optimal, but it prevents yo=
+u from ever having to add code directly to the pipeline build script (like =
+is done in scoring) and in this script. If you are ever confused about what=
+ dataset is being used on a registered model you can check the associated d=
+ata on a registered model in Azure ML</p></li>
+<li><p><code>transformation.py</code> is virtually the exact same <code>tra=
+nsformation.py</code> script that is in the <code>data_utils</code> directo=
+ry and called in the scoring pipeline. It needs to exist on its own in this=
+ directory because it is called in <code>train_aml</code> which is an entry=
+ script and should not have any module imports into it. If you make edits t=
+o <code>transformation.py</code> in the <code>data_utils</code> directory, =
+take care to copy the changes over into this directory. I know this is tedi=
+ous, the entry script(s) should not be importing modules. Note the methods =
+in this script are virtually exactly the same as in <code>data_utils</code>=
+ but the <code>workspace</code> is given as an input parameter and it is in=
+itiated by the run context when the pipeline is run and built</p></li>
+<li><p>Lastly are the config files that are placed here from the <code>json=
+_converter.py</code> script</p></li>
+</ul></li>
+<li><p><code>code/aml_machinelearning/iep_ml_models/evaluate</code> contain=
+s <code>evaluate_model.py</code> and the associated config files (that were=
+ placed here from the <code>json_converter.py</code> script). This script l=
+oads in the specified model (from <code>.Env</code>) and compares the metri=
+c (MAPE or AUC depending on the model) of the current model being trained i=
+n the pipeline to some specified model metric value in the config file. Thi=
+s can be some arbitrary placeholder value or the value of the last actual r=
+egistered model for the given indication. This is a guardrail to prevent po=
+or fitting models from being registered. However, it is a flexible guardrai=
+l</p></li>
+<li><p><code>code/aml_machinelearning/iep_ml_models/register</code> contain=
+s <code>register_model.py</code> and the associated config files (that were=
+ placed here from the <code>json_converter.py</code> script). This script s=
+imply registers the model that has been built in the pipeline (assuming it =
+passes the guardrail check) and tags the relevant metrics and dataset used =
+to train the model. If the model doesn=E2=80=99t pass the guardrails then i=
+t is not registered and the pipeline concludes</p></li>
+<li><p><code>code/aml_machinelearning/ml_service/pipelines</code> contains =
+the build script for the training pipeline. It is called <code>ml_build_tra=
+in_pipeline.py</code>. This is the build script that orchestrates the flow =
+from training the model (<code>train_aml.py</code>), to evaluating the mode=
+l (<code>evaluate_model.py</code>), and then finally registering the model =
+if it passes the guardrail checks (<code>register_model.py</code>)</p></li>
+<li><p><code>code/aml_machinelearning/iep_ml_models</code> contains <code>p=
+arameters.json</code>. The only thing that would ever need to be added to t=
+his is a metric name to the list (if you wanted to track more metrics). The=
+ name of these metrics need to be in the corresponding indication file, for=
+ example <code>lung.py</code></p></li>
+</ul>
+<h2 id=3D"Training-Runningthecode">Running the code</h2>
+<p>In order to create the pipeline you need to do the following:</p>
+<ol start=3D"0">
+<li><p>See the section <code>code/aml_machinelearning/modeling_configs</cod=
+e> above to make sure the relevant variables are specified before the confi=
+gs are written to new directories</p></li>
+<li><p>If running an already existing indication that has a specified file =
+(e.g., <code>lung.py</code>) in <code>iep_ml_models/training</code> (this i=
+s usually the case) then skip to the next step. If adding a new indication =
+then follow the instructions above in the <code>Understanding the code</cod=
+e>. In the <code>train_aml.py</code> script you will need to make sure the =
+correct indication file is being read in so the relevant training class can=
+ be found (search for =E2=80=98TODO=E2=80=99 in the <code>train_aml.py</cod=
+e> script to see where the code should change)</p></li>
+<li><p>Change the <code>.Env</code> file (as described in the <code>.Env</c=
+ode> section) to the relevant values for your given indication and model ty=
+pe</p></li>
+<li><p>Make sure the projects docker container is running (Docker Desktop m=
+ust be running and you must be logged in)</p>
+<ol start=3D"1">
+<li>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">docker =
+run -d -i -t -v ~PATH TO YOUR REPO~ --name mlops mcr.microsoft.com/mlops/py=
+thon:latest /bin/bash</pre>=20
+</div>
+</div>
+<ol start=3D"1">
+<li><p>you can also activate the relevant container by using the interactiv=
+e docker client and running this container</p></li>
+</ol></li>
+</ol></li>
+<li><p>In the terminal navigate to <code>code/aml_machinelearning</code> an=
+d run the build script (also from the terminal)</p>
+<ol start=3D"1">
+<li>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: py; gutter: false; theme: Confluence" data-theme=3D"Confluence">python -m=
+ ml_service.pipelines.ml_build_train_pipeline</pre>=20
+</div>
+</div></li>
+</ol></li>
+<li><p>Head to Azure ML (make sure the correct directory, subscription, and=
+ workspace are specified). For testing purposes this should be:</p>
+<ol start=3D"1">
+<li><p><code>Current Directory =3D Syneos Health</code></p></li>
+<li><p><code>Current Subscription =3D SYNH-DEV-CR-IEP-DLZ</code></p></li>
+<li><p><code>Current Workspace =3D e2e-dev-machinelearning001</code></p></l=
+i>
+</ol></li>
+<li><p>Then go to Pipelines =E2=86=92 Pipeline Endpoints and find the relev=
+ant endpoint. Then click on =E2=80=9CSubmit=E2=80=9D. The =E2=80=9CExisting=
+ experiment=E2=80=9D does not matter. Just choose one</p></li>
+<li><p>Once the pipeline is done running you can then navigate to =E2=80=9C=
+Models=E2=80=9D on the side panel. If your new model is registered you shou=
+ld see it here</p></li>
+</ol>
+<h2 id=3D"Training-Supportingfiles">Supporting files</h2>
+<p>In <code>code/aml_machinelearning/iep_ml_models</code> you will see four=
+ yaml files:</p>
+<ul>
+<li><p><code>ci_dependencies.yml</code> which has the overall CI dependenci=
+es for the codebase</p></li>
+<li><p><code>conda_dependencies_scorecopy.yml</code> has the dependencies f=
+or building the scorecopy step of the scoring pipeline</p></li>
+<li><p><code>conda_dependencies_scoring.yml</code> has the dependencies for=
+ building the scoring pipeline</p></li>
+<li><p><code>conda_dependencies.yml</code> has the dependencies for the tra=
+ining pipeline (this pipeline)</p></li>
+</ul>
+<p>At some point all of the package versions should be specified (index to =
+a specific version on every dependency). It might be worth indexing the pac=
+kage versions to whatever the versions are in Azure. If a version isn=E2=80=
+=99t specified then the newest available version of the package will be use=
+d. As packages change the pipeline might break. Towards the end of June 202=
+3 <code>scikit-learn</code> and <code>joblib</code> were both updated. The =
+updates to these packages changed the way machine learning models were pick=
+led in <code>scikit-learn</code> and how they were read in in <code>joblib<=
+/code>. This broke the scoring pipeline because the models could not be rea=
+d in. This is why you will see a specific version of <code>joblib</code> be=
+ing imported in.</p>
+<p></p>
+<p></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_156_331152822.1700407979690--
